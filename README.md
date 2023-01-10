@@ -20,4 +20,4 @@ I also have extensive experience working on Machine learning and Deep learning-b
 
  
 ## Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mushrafi-munim-sushmit-39a452152/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mushrafi-munim-sushmit-39a452152/)
