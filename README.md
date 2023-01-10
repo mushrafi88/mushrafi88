@@ -4,9 +4,7 @@
   ## About Me 👩‍💼
 I am an undergraduate student at the University of Dhaka. I am currently in the final year of my Bsc degree, majoring in Physics.
 
-My research interests include Quantum Mechanics, Quantum Computing, and Statistical Physics. 
-
-I also have extensive experience working on Machine learning and Deep learning-based projects covering a broad spectrum of fields, including Computer vision, Natural language processing, and Quantum Machine learning.
+I am a huge arch fanboy. arch linux all the way :)
 
 
 ## Tech Stack 
