@@ -2,6 +2,11 @@
   
   
   ## About Me 👩‍💼
+I am an undergraduate student at the University of Dhaka. I am currently in the final year of my Bsc degree, majoring in Physics.
+
+My research interests include Quantum Mechanics, Quantum Computing, and Statistical Physics. 
+
+I also have extensive experience working on Machine learning and Deep learning-based projects covering a broad spectrum of fields, including Computer vision, Natural language processing, and Quantum Machine learning.
 
 
 ## Tech Stack 
@@ -15,5 +20,4 @@
 
  
 ## Contact Me
-[![Facebook](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.facebook.com/mushrafi.munim.1))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mushrafi-munim-sushmit-39a452152/))
