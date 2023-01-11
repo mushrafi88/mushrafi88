@@ -2,7 +2,6 @@
   
   
   ## About Me 👩‍💼
-I am an undergraduate student at the University of Dhaka. I am currently in the final year of my Bsc degree, majoring in Physics.
 
 I am a huge arch fanboy. arch linux all the way :)
 
