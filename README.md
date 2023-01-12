@@ -21,4 +21,4 @@ I am a huge arch fanboy. arch linux all the way :)
 
 ## Check out my website
 
-![mushrafi88.github.io](mushrafi88.github.io)
+![https://mushrafi88.github.io](https://mushrafi88.github.io)
