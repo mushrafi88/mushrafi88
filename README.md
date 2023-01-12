@@ -20,5 +20,4 @@ I am a huge arch fanboy. arch linux all the way :)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mushrafi-munim-sushmit-39a452152/)
 
 ## Check out my website
-
-![https://mushrafi88.github.io](https://mushrafi88.github.io)
+https://mushrafi88.github.io
