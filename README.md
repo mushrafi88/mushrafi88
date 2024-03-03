@@ -3,7 +3,7 @@
   
   ## About Me 👩‍💼
 
-I am a huge arch fanboy. arch linux all the way :)
+Linux all the way :)
 
 
 ## Tech Stack 
